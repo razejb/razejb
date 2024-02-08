@@ -1,5 +1,7 @@
 ### Hi there 👋
 [![Joao Santos's GitHub stats](https://github-readme-stats.vercel.app/api?username=razejb)](https://github.com/razejb/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=razejb&show_icons=true&theme=radical)
 <!--
 **razejb/razejb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
