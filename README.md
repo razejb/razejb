@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Joao Santos's GitHub stats](https://github-readme-stats.vercel.app/api?username=razejb)](https://github.com/razejb/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=razejb&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=razejb&show_icons=true&theme=radical)
 <!--
